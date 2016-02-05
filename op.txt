@@ -1,0 +1,2669 @@
+Science
+	{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "_id": "552fda6838f0d824112d69e3",
+                "abstract": "Carly Fiorina, the onetime chief executive of Hewlett-Packard, said a female challenger for president on the Republican side could neutralize the Democrat Hillary Rodham Clinton\u2019s power to galvanize women.",
+                "blog": [],
+                "byline": {
+                    "original": "By ALAN RAPPEPORT",
+                    "person": [
+                        {
+                            "firstname": "Alan",
+                            "lastname": "RAPPEPORT",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "blogpost",
+                "headline": {
+                    "kicker": "First Draft",
+                    "main": "Carly Fiorina Makes Case That She Could Offset Hillary Clinton"
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "rank": "1",
+                        "value": "Clinton, Hillary Rodham"
+                    },
+                    {
+                        "name": "persons",
+                        "rank": "2",
+                        "value": "Fiorina, Carleton S"
+                    },
+                    {
+                        "name": "organizations",
+                        "rank": "1",
+                        "value": "Christian Science Monitor"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Presidential Election of 2016"
+                    }
+                ],
+                "lead_paragraph": null,
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/us/politics/16firstdraft-fiorina/16firstdraft-fiorina-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/us/politics/16firstdraft-fiorina/16firstdraft-fiorina-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/us/politics/16firstdraft-fiorina/16firstdraft-fiorina-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/us/politics/16firstdraft-fiorina/16firstdraft-fiorina-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/us/politics/16firstdraft-fiorina/16firstdraft-fiorina-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/us/politics/16firstdraft-fiorina/16firstdraft-fiorina-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": null,
+                "print_page": null,
+                "pub_date": "2015-04-16T11:49:16Z",
+                "section_name": "false",
+                "snippet": "Carly Fiorina, the onetime chief executive of Hewlett-Packard, said a female challenger for president on the Republican side could neutralize the Democrat Hillary Rodham Clinton\u2019s power to galvanize women.",
+                "source": "The New York Times",
+                "subsection_name": "false",
+                "type_of_material": "Blog",
+                "web_url": "http://www.nytimes.com/politics/first-draft/2015/04/16/carly-fiorina-makes-case-that-she-could-offset-hillary-clinton/",
+                "word_count": "286"
+            },
+            {
+                "_id": "552de95e38f0d87fbef52c69",
+                "abstract": "Homaro Cantu, a Chicago chef known for using chemical-laboratory techniques in his cooking, dies at age 38.",
+                "blog": [],
+                "byline": {
+                    "contributor": "Ashley Southall and Daniel E. Slotnik contributed reporting.",
+                    "original": "By PETE WELLS",
+                    "person": [
+                        {
+                            "firstname": "Pete",
+                            "lastname": "WELLS",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Homaro Cantu, Science-Minded Chicago Chef, Dies at 38",
+                    "print_headline": "Homaro Cantu, 38, Science-Minded Chef"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Deaths (Obituaries)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Chefs"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Cooking and Cookbooks"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Restaurants"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Trotter, Charlie (1959-2013)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "6",
+                        "value": "Wells, Pete"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "7",
+                        "value": "Cantu, Homaro (1976-2015)"
+                    }
+                ],
+                "lead_paragraph": "Mr. Cantu used chemical-laboratory techniques in his cooking, and his restaurant Moto held a Michelin star.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/15/dining/15CANTU-obit/15CANTU-obit-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/15/dining/15CANTU-obit/15CANTU-obit-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 840,
+                        "legacy": {
+                            "xlarge": "images/2015/04/15/dining/15CANTU-obit/15CANTU-obit-articleLarge.jpg",
+                            "xlargeheight": "840",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/15/dining/15CANTU-obit/15CANTU-obit-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/15/dining/15CANTU-obit/15CANTU-obit-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/15/dining/15CANTU-obit/15CANTU-obit-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "National",
+                "print_page": "19",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Food",
+                "snippet": "Mr. Cantu used chemical-laboratory techniques in his cooking, and his restaurant Moto held a Michelin star.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Obituary",
+                "web_url": "http://www.nytimes.com/2015/04/15/dining/homaro-cantu-science-minded-chicago-chef-dies-at-38.html",
+                "word_count": "784"
+            },
+            {
+                "_id": "552eb56f38f0d824112d662f",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By ROBERT STRAUSS",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "lastname": "STRAUSS",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "kicker": "Small Business",
+                    "main": "Performing Math and Mime, for Fun and Profit",
+                    "print_headline": "Putting on a Show, Mixing Mathematics and Mime, for Fun and Profit"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Mathematics"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Small Business"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Mime"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Chartier, Tanya (1971- )"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Chartier, Tim (1969- )"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "6",
+                        "value": "Theater"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "7",
+                        "value": "Science and Technology"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "8",
+                        "value": "Davidson College"
+                    }
+                ],
+                "lead_paragraph": "A math professor and his wife, both trained by Marcel Marceau, stage mime skits to teach the principles, and joys, of math to students of all ages.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Business",
+                "print_page": "7",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Business Day",
+                "snippet": "A math professor and his wife, both trained by Marcel Marceau, stage mime skits to teach the principles, and joys, of math to students of all ages.",
+                "source": "The New York Times",
+                "subsection_name": "Small Business",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/16/business/smallbusiness/performing-math-and-mime-for-fun-and-profit.html",
+                "word_count": "1237"
+            },
+            {
+                "_id": "552eefab38f0d824112d6712",
+                "abstract": "Barbara Strauch, a reporter and editor for Newsday who later directed health and science coverage for The New York Times for a decade, dies at age 63.",
+                "blog": [],
+                "byline": {
+                    "original": "By SAM ROBERTS",
+                    "person": [
+                        {
+                            "firstname": "Sam",
+                            "lastname": "ROBERTS",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Barbara Strauch, 63, Science and Health Editor at The New York Times, Dies",
+                    "print_headline": "Barbara Strauch, 63, a Times Editor, Dies"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Deaths (Obituaries)"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "2",
+                        "value": "New York Times"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "News and News Media"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Strauch, Barbara"
+                    }
+                ],
+                "lead_paragraph": "Ms. Strauch, who wrote two books about the brain, worked for Newsday before The Times hired her in 1995. She became science editor in 2011.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/business/16strauch-1-obit/16strauch-1-obit-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16strauch-1-obit/16strauch-1-obit-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 868,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/business/16strauch-1-obit/16strauch-1-obit-articleLarge.jpg",
+                            "xlargeheight": "868",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16strauch-1-obit/16strauch-1-obit-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/business/16strauch-1-obit/16strauch-1-obit-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16strauch-1-obit/16strauch-1-obit-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Business",
+                "print_page": "19",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Science",
+                "snippet": "Ms. Strauch, who wrote two books about the brain, worked for Newsday before The Times hired her in 1995. She became science editor in 2011.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Obituary",
+                "web_url": "http://www.nytimes.com/2015/04/16/science/barbara-strauch-63-former-science-and-health-editor-at-the-new-york-times-dies.html",
+                "word_count": "868"
+            },
+            {
+                "_id": "553008b238f0d847eef0f49e",
+                "abstract": "Dogs who trained a long gaze on their owners had elevated levels of oxytocin, a hormone produced in the brain that is associated with nurturing and attachment. After receiving those long gazes, the owners\u2019 levels of oxytocin increased, too.",
+                "blog": [],
+                "byline": {
+                    "original": "By JAN HOFFMAN",
+                    "person": [
+                        {
+                            "firstname": "Jan",
+                            "lastname": "HOFFMAN",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "blogpost",
+                "headline": {
+                    "kicker": "Well",
+                    "main": "The Look of Love Is in the Dog&#8217;s Eyes",
+                    "print_headline": "The Science Behind Puppy-Dog Eyes"
+                },
+                "keywords": [
+                    {
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Dogs"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Eyes and Eyesight"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Oxytocin (Hormone)"
+                    }
+                ],
+                "lead_paragraph": null,
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/17/science/17dogs/17dogs-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/17/science/17dogs/17dogs-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2015/04/17/science/17dogs/17dogs-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/17/science/17dogs/17dogs-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/17/science/17dogs/17dogs-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/17/science/17dogs/17dogs-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Science",
+                "print_page": null,
+                "pub_date": "2015-04-16T15:07:01Z",
+                "section_name": "false",
+                "snippet": "Dogs who trained a long gaze on their owners had elevated levels of oxytocin, a hormone produced in the brain that is associated with nurturing and attachment. After receiving those long gazes, the owners\u2019 levels of oxytocin increased, too.",
+                "source": "The New York Times",
+                "subsection_name": "false",
+                "type_of_material": "Blog",
+                "web_url": "http://well.blogs.nytimes.com/2015/04/16/the-look-of-love-is-in-the-dogs-eyes/",
+                "word_count": "971"
+            },
+            {
+                "_id": "552f62e338f0d824112d6823",
+                "abstract": "Nicholas Kristof Op-Ed column defends value of liberal arts education, which has faced declining popularity; points out the humanities provide invaluable communication and interpersonal skills, and help produce leaders with a wise sense of public policy; says such an education nurtures emotional intelligence that can provide greater personal happiness in long-term.",
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "original": "By NICHOLAS KRISTOF",
+                    "person": [
+                        {
+                            "firstname": "Nicholas",
+                            "lastname": "KRISTOF",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Op-Ed Columnist",
+                    "kicker": "Op-Ed Columnist",
+                    "main": "Starving for Wisdom",
+                    "print_headline": "Starving for Wisdom"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Colleges and Universities"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Humanities"
+                    }
+                ],
+                "lead_paragraph": "The humanities enrich our souls, and sometimes even our pocketbooks.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/opinion/16kristof/16kristof-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/opinion/16kristof/16kristof-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 399,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/opinion/16kristof/16kristof-articleLarge.jpg",
+                            "xlargeheight": "399",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/opinion/16kristof/16kristof-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/opinion/16kristof/16kristof-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/opinion/16kristof/16kristof-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Editorial",
+                "print_page": "27",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Opinion",
+                "snippet": "The humanities enrich our souls, and sometimes even our pocketbooks.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Op-Ed",
+                "web_url": "http://www.nytimes.com/2015/04/16/opinion/nicholas-kristof-starving-for-wisdom.html",
+                "word_count": "787"
+            },
+            {
+                "_id": "552fa44938f0d824112d690b",
+                "abstract": null,
+                "blog": [],
+                "byline": [],
+                "document_type": "article",
+                "headline": {
+                    "main": "Freeman Dyson: By the Book",
+                    "print_headline": "By the Book; Freeman Dyson"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "1",
+                        "value": "Dyson, Freeman J"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Books and Literature"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Writing and Writers"
+                    }
+                ],
+                "lead_paragraph": "The physicist, mathematician and author, most recently, of \u201cDreams of Earth and Sky\u201d says the best books he knows about mathematics and physics are nearly a hundred years old.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/19/books/review/19BTB/19-btb-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19BTB/19-btb-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 710,
+                        "legacy": {
+                            "xlarge": "images/2015/04/19/books/review/19BTB/19-btb-articleLarge.jpg",
+                            "xlargeheight": "710",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19BTB/19-btb-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/19/books/review/19BTB/19-btb-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19BTB/19-btb-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "BookReview",
+                "print_page": "8",
+                "pub_date": "2015-04-19T00:00:00Z",
+                "section_name": "Books",
+                "snippet": "The physicist, mathematician and author, most recently, of \u201cDreams of Earth and Sky\u201d says the best books he knows about mathematics and physics are nearly a hundred years old.",
+                "source": "The New York Times",
+                "subsection_name": "Sunday Book Review",
+                "type_of_material": "Question",
+                "web_url": "http://www.nytimes.com/2015/04/19/books/review/19bkr-bythebook_dyson.t.html",
+                "word_count": "1180"
+            },
+            {
+                "_id": "5527daed38f0d8359e979a84",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By GREGORY COWLES",
+                    "person": [
+                        {
+                            "firstname": "Gregory",
+                            "lastname": "COWLES",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Inside the List",
+                    "print_headline": "Inside the List"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Books and Literature"
+                    }
+                ],
+                "lead_paragraph": "Sara Gruen, whose novel \u201cAt the Water\u2019s Edge\u201d is No. 6 on the hardcover fiction, recently described the office above her garage as a \u201cbordello circus tent.\u201d",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/19/books/review/19gruen/19gruen-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19gruen/19gruen-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/19/books/review/19gruen/19gruen-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19gruen/19gruen-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "BookReview",
+                "print_page": "26",
+                "pub_date": "2015-04-19T00:00:00Z",
+                "section_name": "Books",
+                "snippet": "Sara Gruen, whose novel \u201cAt the Water\u2019s Edge\u201d is No. 6 on the hardcover fiction, recently described the office above her garage as a \u201cbordello circus tent.\u201d",
+                "source": "The New York Times",
+                "subsection_name": "Sunday Book Review",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/19/books/review/inside-the-list.html",
+                "word_count": "501"
+            },
+            {
+                "_id": "552ffd8938f0d847eef0f464",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Phil Klay, Leslie Jamison Among PEN Award Nominees",
+                    "print_headline": "Phil Klay, Leslie Jamison Among PEN Award Nominees"
+                },
+                "keywords": [],
+                "lead_paragraph": "National Book Award winner Phil Klay and Oprah Winfrey favorite Cynthia Bond are among the authors on the shortlist for awards presented by the PEN American Center.",
+                "multimedia": [],
+                "news_desk": "None",
+                "print_page": null,
+                "pub_date": "2015-04-16T14:18:36Z",
+                "section_name": "Arts",
+                "snippet": "National Book Award winner Phil Klay and Oprah Winfrey favorite Cynthia Bond are among the authors on the shortlist for awards presented by the PEN American Center.",
+                "source": "AP",
+                "subsection_name": null,
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/aponline/2015/04/16/arts/ap-us-books-pen-awards.html",
+                "word_count": "126"
+            },
+            {
+                "_id": "55302ee538f0d847eef0f553",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "original": "By BEN KENIGSBERG",
+                    "person": [
+                        {
+                            "firstname": "Ben",
+                            "lastname": "KENIGSBERG",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Review: In \u2018Antarctic Edge,\u2019 a Region of Retreating Ice",
+                    "print_headline": "Antarctic Edge"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "creative_works",
+                        "rank": "1",
+                        "value": "Antarctic Edge (Movie)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Movies"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Documentary Films and Programs"
+                    }
+                ],
+                "lead_paragraph": "This documentary about a scarcely charted place underlines the sheer labor of exploration and the global dangers posed by shrinking sea ice.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/17/arts/17ANTARTIC/17ANTARTIC-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/17ANTARTIC/17ANTARTIC-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 401,
+                        "legacy": {
+                            "xlarge": "images/2015/04/17/arts/17ANTARTIC/17ANTARTIC-articleLarge.jpg",
+                            "xlargeheight": "401",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/17ANTARTIC/17ANTARTIC-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/17/arts/17ANTARTIC/17ANTARTIC-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/17ANTARTIC/17ANTARTIC-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Weekend",
+                "print_page": "8",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Movies",
+                "snippet": "This documentary about a scarcely charted place underlines the sheer labor of exploration and the global dangers posed by shrinking sea ice.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Review",
+                "web_url": "http://www.nytimes.com/2015/04/17/movies/review-in-antarctic-edge-a-region-of-retreating-ice.html",
+                "word_count": "235"
+            }
+        ],
+        "meta": {
+            "hits": 43,
+            "offset": 0,
+            "time": 33
+        }
+    },
+    "status": "OK"
+}
+Arts
+	{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "_id": "5530132c38f0d847eef0f4c6",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By MELENA RYZIK",
+                    "person": [
+                        {
+                            "firstname": "Melena",
+                            "lastname": "RYZIK",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "\u2018Telephone: An International Arts Experiment\u2019 by Nathan Langston",
+                    "print_headline": "Psst, Look at This. Now, Pass It On."
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Art"
+                    }
+                ],
+                "lead_paragraph": "The project asked artists to look at a work, create a response to it, then pass it on.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/19/arts/19TELEPHONE1/19TELEPHONE1-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/19/arts/19TELEPHONE1/19TELEPHONE1-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 429,
+                        "legacy": {
+                            "xlarge": "images/2015/04/19/arts/19TELEPHONE1/19TELEPHONE1-articleLarge.jpg",
+                            "xlargeheight": "429",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/19/arts/19TELEPHONE1/19TELEPHONE1-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/19/arts/19TELEPHONE1/19TELEPHONE1-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/19/arts/19TELEPHONE1/19TELEPHONE1-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Arts&Leisure",
+                "print_page": "22",
+                "pub_date": "2015-04-19T00:00:00Z",
+                "section_name": "Arts",
+                "snippet": "The project asked artists to look at a work, create a response to it, then pass it on.",
+                "source": "The New York Times",
+                "subsection_name": "Art & Design",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/19/arts/design/telephone-an-international-arts-experiment-by-nathan-langston.html",
+                "word_count": "1411"
+            },
+            {
+                "_id": "552efb8d38f0d824112d6728",
+                "abstract": "Colin B Bailey, Fine Arts Museums of San Francisco director and former chief curator for Frick Collection, is hired as director of Morgan Library & Museum.",
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "original": "By RANDY KENNEDY",
+                    "person": [
+                        {
+                            "firstname": "Randy",
+                            "lastname": "KENNEDY",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Colin Bailey Is Named the New Director of Morgan Library",
+                    "print_headline": "Morgan Library Picks Ex-Frick Curator as Director"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "1",
+                        "value": "Morgan Library & Museum"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "2",
+                        "value": "Bailey, Colin B"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "3",
+                        "value": "Frick Collection"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Art"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "5",
+                        "value": "Museums"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "6",
+                        "value": "Fine Arts Museums of San Francisco"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "7",
+                        "value": "Appointments and Executive Changes"
+                    }
+                ],
+                "lead_paragraph": "Mr. Bailey, a former chief curator at the Frick Collection, will lead the Morgan Library & Museum, which has been without a leader since last summer.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/arts/16MORGAN/16MORGAN-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/arts/16MORGAN/16MORGAN-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/arts/16MORGAN/16MORGAN-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/arts/16MORGAN/16MORGAN-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Culture",
+                "print_page": "3",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Arts",
+                "snippet": "Mr. Bailey, a former chief curator at the Frick Collection, will lead the Morgan Library & Museum, which has been without a leader since last summer.",
+                "source": "The New York Times",
+                "subsection_name": "Art & Design",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/16/arts/design/colin-bailey-is-named-the-new-director-of-morgan-library.html",
+                "word_count": "674"
+            },
+            {
+                "_id": "552ee00638f0d824112d66e3",
+                "abstract": "Reynold Levy, former president of Lincoln Center, tells story of how Lincoln Center's $1.2 billion renovation was achieved in his book They Told Me Not to Take That Job: Tumult, Betrayal, Heroics, and the Transformation of Lincoln Center; also specifically names people he thinks are responsible for hardships of various New York cultural institutions.",
+                "blog": [],
+                "byline": {
+                    "original": "By MICHAEL COOPER",
+                    "person": [
+                        {
+                            "firstname": "Michael",
+                            "lastname": "COOPER",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Reynold Levy\u2019s New Book Names Names, Including the Met and Peter Gelb",
+                    "print_headline": "Naming Names Behind the Curtains"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Books and Literature"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "2",
+                        "value": "Levy, Reynold"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "organizations",
+                        "rank": "3",
+                        "value": "Lincoln Center for the Performing Arts"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Culture (Arts)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "5",
+                        "value": "Opera"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "6",
+                        "value": "Music"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "creative_works",
+                        "rank": "7",
+                        "value": "They Told Me Not to Take That Job: Tumult, Betrayal, Heroics, and the Transformation of Lincoln Center (Book)"
+                    }
+                ],
+                "lead_paragraph": "\u201cThey Told Me Not to Take That Job,\u201d by Mr. Levy, the former president of Lincoln Center, is to be published next month.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/arts/16LEVYJP/16LEVYJP-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/arts/16LEVYJP/16LEVYJP-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 326,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/arts/16LEVYJP/16LEVYJP-articleLarge.jpg",
+                            "xlargeheight": "326",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/arts/16LEVYJP/16LEVYJP-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/arts/16LEVYJP/16LEVYJP-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/arts/16LEVYJP/16LEVYJP-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Culture",
+                "print_page": "1",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Arts",
+                "snippet": "\u201cThey Told Me Not to Take That Job,\u201d by Mr. Levy, the former president of Lincoln Center, is to be published next month.",
+                "source": "The New York Times",
+                "subsection_name": "Music",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/16/arts/music/reynold-levys-new-book-names-names-including-the-met-and-peter-gelb.html",
+                "word_count": "1144"
+            },
+            {
+                "_id": "552ecfb338f0d824112d669d",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By SHEILA MARIKAR",
+                    "person": [
+                        {
+                            "firstname": "Sheila",
+                            "lastname": "MARIKAR",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Come for Coachella, but Party at #Nochella"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Coachella Valley Music and Arts Festival"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Fashion and Apparel"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Music"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Parties (Social)"
+                    }
+                ],
+                "lead_paragraph": "The most trendy music festival of the year has been surpassed by the parties that pop up around it.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/fashion/16NOCHELLAWEB/16NOCHELLAWEB-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/fashion/16NOCHELLAWEB/16NOCHELLAWEB-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 900,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/fashion/16NOCHELLAWEB/16NOCHELLAWEB-articleLarge.jpg",
+                            "xlargeheight": "900",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/fashion/16NOCHELLAWEB/16NOCHELLAWEB-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/fashion/16NOCHELLAWEB/16NOCHELLAWEB-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/fashion/16NOCHELLAWEB/16NOCHELLAWEB-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Styles",
+                "print_page": "",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Fashion & Style",
+                "snippet": "The most trendy music festival of the year has been surpassed by the parties that pop up around it.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/16/fashion/come-for-coachella-but-party-at-nochella.html",
+                "word_count": "1080"
+            },
+            {
+                "_id": "552fccb338f0d824112d69a3",
+                "abstract": "\u201cThere was a moment of silence and then everyone started applauding happily,\u201d wrote Toshi Abe, a board member of the Japanese American Citizens League.",
+                "blog": [],
+                "byline": {
+                    "original": "By EVE M. KAHN",
+                    "person": [
+                        {
+                            "firstname": "Eve",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "blogpost",
+                "headline": {
+                    "kicker": "ArtsBeat",
+                    "main": "Contested Artifacts from Internment Camps Withdrawn from Auction",
+                    "print_headline": "Internment Camps Auction Is Canceled After Protests"
+                },
+                "keywords": [
+                    {
+                        "name": "persons",
+                        "rank": "1",
+                        "value": "Takei, George"
+                    },
+                    {
+                        "name": "glocations",
+                        "rank": "1",
+                        "value": "Japan"
+                    },
+                    {
+                        "name": "glocations",
+                        "rank": "2",
+                        "value": "Lambertville (NJ)"
+                    },
+                    {
+                        "name": "glocations",
+                        "rank": "3",
+                        "value": "New Jersey"
+                    },
+                    {
+                        "name": "glocations",
+                        "rank": "4",
+                        "value": "United States"
+                    },
+                    {
+                        "name": "organizations",
+                        "rank": "1",
+                        "value": "Change.org"
+                    },
+                    {
+                        "name": "organizations",
+                        "rank": "2",
+                        "value": "Heart Mountain Wyoming Foundation"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Art"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Auctions"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Boards of Directors"
+                    },
+                    {
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Japanese-Americans"
+                    }
+                ],
+                "lead_paragraph": null,
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/03/06/arts/06ANTIQUES1/06ANTIQUES1-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/03/06/arts/06ANTIQUES1/06ANTIQUES1-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/03/06/arts/06ANTIQUES1/06ANTIQUES1-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/03/06/arts/06ANTIQUES1/06ANTIQUES1-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Culture",
+                "print_page": null,
+                "pub_date": "2015-04-16T10:52:09Z",
+                "section_name": "Arts",
+                "snippet": "\u201cThere was a moment of silence and then everyone started applauding happily,\u201d wrote Toshi Abe, a board member of the Japanese American Citizens League.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Blog",
+                "web_url": "http://artsbeat.blogs.nytimes.com/2015/04/16/contested-artifacts-from-internment-camps-withdrawn-from-auction/",
+                "word_count": "305"
+            },
+            {
+                "_id": "552f62e338f0d824112d6823",
+                "abstract": "Nicholas Kristof Op-Ed column defends value of liberal arts education, which has faced declining popularity; points out the humanities provide invaluable communication and interpersonal skills, and help produce leaders with a wise sense of public policy; says such an education nurtures emotional intelligence that can provide greater personal happiness in long-term.",
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "original": "By NICHOLAS KRISTOF",
+                    "person": [
+                        {
+                            "firstname": "Nicholas",
+                            "lastname": "KRISTOF",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Op-Ed Columnist",
+                    "kicker": "Op-Ed Columnist",
+                    "main": "Starving for Wisdom",
+                    "print_headline": "Starving for Wisdom"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Colleges and Universities"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Humanities"
+                    }
+                ],
+                "lead_paragraph": "The humanities enrich our souls, and sometimes even our pocketbooks.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/opinion/16kristof/16kristof-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/opinion/16kristof/16kristof-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 399,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/opinion/16kristof/16kristof-articleLarge.jpg",
+                            "xlargeheight": "399",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/opinion/16kristof/16kristof-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/opinion/16kristof/16kristof-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/opinion/16kristof/16kristof-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Editorial",
+                "print_page": "27",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Opinion",
+                "snippet": "The humanities enrich our souls, and sometimes even our pocketbooks.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Op-Ed",
+                "web_url": "http://www.nytimes.com/2015/04/16/opinion/nicholas-kristof-starving-for-wisdom.html",
+                "word_count": "787"
+            },
+            {
+                "_id": "552fe2b838f0d847eef0f3e4",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Backlash Cancels Auction of Japanese Internment Camp Items",
+                    "print_headline": "Backlash Cancels Auction of Japanese Internment Camp Items"
+                },
+                "keywords": [],
+                "lead_paragraph": "Protests by Japanese-American groups have led an East Coast auction house to cancel a sale of 450 photos and artifacts from World War II internment camps.",
+                "multimedia": [],
+                "news_desk": "None",
+                "print_page": null,
+                "pub_date": "2015-04-16T12:24:13Z",
+                "section_name": "U.S.",
+                "snippet": "Protests by Japanese-American groups have led an East Coast auction house to cancel a sale of 450 photos and artifacts from World War II internment camps.",
+                "source": "AP",
+                "subsection_name": null,
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/aponline/2015/04/16/us/ap-us-internment-art-auction.html",
+                "word_count": "373"
+            },
+            {
+                "_id": "553034c038f0d847eef0f575",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By MARTHA SCHWENDENER",
+                    "person": [
+                        {
+                            "firstname": "Martha",
+                            "lastname": "SCHWENDENER",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "10 Galleries to Visit in SoHo and TriBeCa",
+                    "print_headline": "Altered Consciousness in Creative Oases "
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Art"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "2",
+                        "value": "SoHo (Manhattan, NY)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "3",
+                        "value": "TriBeCa (Manhattan, NY)"
+                    }
+                ],
+                "lead_paragraph": "Few things are as satisfying as braving the consumerist hordes and ducking into an art space that is hidden in plain sight.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/17/arts/design/20150417GALLERY-slide-UMWK/20150417GALLERY-slide-UMWK-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/design/20150417GALLERY-slide-UMWK/20150417GALLERY-slide-UMWK-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2015/04/17/arts/design/20150417GALLERY-slide-UMWK/20150417GALLERY-slide-UMWK-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/design/20150417GALLERY-slide-UMWK/20150417GALLERY-slide-UMWK-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/17/arts/design/20150417GALLERY-slide-UMWK/20150417GALLERY-slide-UMWK-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/design/20150417GALLERY-slide-UMWK/20150417GALLERY-slide-UMWK-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Weekend",
+                "print_page": "32",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Arts",
+                "snippet": "Few things are as satisfying as braving the consumerist hordes and ducking into an art space that is hidden in plain sight.",
+                "source": "The New York Times",
+                "subsection_name": "Art & Design",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/17/arts/design/10-galleries-to-visit-in-soho-and-tribeca.html",
+                "word_count": "1615"
+            },
+            {
+                "_id": "553030b638f0d847eef0f55f",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "original": "By WILLIAM GRIMES",
+                    "person": [
+                        {
+                            "firstname": "William",
+                            "lastname": "GRIMES",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Galleries of New York: Five Artists",
+                    "main": "Distinct Prisms in an Ever-Shifting Kaleidoscope",
+                    "print_headline": "Distinct Prisms in a Shifting Kaleidoscope"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Art"
+                    }
+                ],
+                "lead_paragraph": "With female artists more visible than ever, here are five who have put their stamp on the current gallery moment.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/17/arts/17PROFILES3/17PROFILES3-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/17PROFILES3/17PROFILES3-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 417,
+                        "legacy": {
+                            "xlarge": "images/2015/04/17/arts/17PROFILES3/17PROFILES3-articleLarge-v3.jpg",
+                            "xlargeheight": "417",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/17PROFILES3/17PROFILES3-articleLarge-v3.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/17/arts/17PROFILES3/17PROFILES3-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/17/arts/17PROFILES3/17PROFILES3-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Weekend",
+                "print_page": "30",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Arts",
+                "snippet": "With female artists more visible than ever, here are five who have put their stamp on the current gallery moment.",
+                "source": "The New York Times",
+                "subsection_name": "Art & Design",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/17/arts/design/distinct-prisms-in-an-ever-shifting-kaleidoscope.html",
+                "word_count": "2288"
+            },
+            {
+                "_id": "552eb56f38f0d824112d662f",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By ROBERT STRAUSS",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "lastname": "STRAUSS",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "kicker": "Small Business",
+                    "main": "Performing Math and Mime, for Fun and Profit",
+                    "print_headline": "Putting on a Show, Mixing Mathematics and Mime, for Fun and Profit"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Mathematics"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Small Business"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Mime"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Chartier, Tanya (1971- )"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Chartier, Tim (1969- )"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "6",
+                        "value": "Theater"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "7",
+                        "value": "Science and Technology"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "8",
+                        "value": "Davidson College"
+                    }
+                ],
+                "lead_paragraph": "A math professor and his wife, both trained by Marcel Marceau, stage mime skits to teach the principles, and joys, of math to students of all ages.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Business",
+                "print_page": "7",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Business Day",
+                "snippet": "A math professor and his wife, both trained by Marcel Marceau, stage mime skits to teach the principles, and joys, of math to students of all ages.",
+                "source": "The New York Times",
+                "subsection_name": "Small Business",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/16/business/smallbusiness/performing-math-and-mime-for-fun-and-profit.html",
+                "word_count": "1237"
+            }
+        ],
+        "meta": {
+            "hits": 50,
+            "offset": 0,
+            "time": 56
+        }
+    },
+    "status": "OK"
+}
+Sports
+	{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "_id": "552f35ea38f0d824112d67c1",
+                "abstract": "Rafael Nadal defeats Lucas Pouille in second round of Monte Carlo Masters tennis tournament.",
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Tennis",
+                    "main": "Rafael Nadal Advances to 3rd Round in Monaco",
+                    "print_headline": "Nadal Reaches 3rd Round"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Tennis"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "2",
+                        "value": "Nadal, Rafael"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "3",
+                        "value": "Wawrinka, Stan"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Chardy, Jeremy"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "glocations",
+                        "rank": "5",
+                        "value": "Monaco"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "6",
+                        "value": "Monte Carlo Open (Tennis)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "7",
+                        "value": "Pouille, Lucas (1994- )"
+                    }
+                ],
+                "lead_paragraph": "Nadal got the flawless start he was hoping for at the Monte Carlo Masters in Monaco, beating the wild card Lucas Pouille in the second round.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/sports/CITY-BRIEFS/CITY-BRIEFS-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/sports/CITY-BRIEFS/CITY-BRIEFS-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 667,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/sports/CITY-BRIEFS/CITY-BRIEFS-articleLarge.jpg",
+                            "xlargeheight": "667",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/sports/CITY-BRIEFS/CITY-BRIEFS-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/sports/CITY-BRIEFS/CITY-BRIEFS-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/sports/CITY-BRIEFS/CITY-BRIEFS-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Sports",
+                "print_page": "14",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Nadal got the flawless start he was hoping for at the Monte Carlo Masters in Monaco, beating the wild card Lucas Pouille in the second round.",
+                "source": "The New York Times",
+                "subsection_name": "Tennis",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/16/sports/tennis/rafael-nadal-advances-to-3rd-round-in-monaco.html",
+                "word_count": "78"
+            },
+            {
+                "_id": "5530824d38f0d847eef0f631",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Golf",
+                    "main": "A Post-Masters Letdown for Spieth",
+                    "print_headline": "A Post-Masters Letdown for Spieth"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Golf"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "2",
+                        "value": "Spieth, Jordan"
+                    }
+                ],
+                "lead_paragraph": "Jordan Spieth had a post-Masters letdown, shooting a three-over-par 74 at the RBC Heritage in Hilton Head Island, S.C., to end his run of 16 straight rounds under par.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "16",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Jordan Spieth had a post-Masters letdown, shooting a three-over-par 74 at the RBC Heritage in Hilton Head Island, S.C., to end his run of 16 straight rounds under par.",
+                "source": "The New York Times",
+                "subsection_name": "Golf",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/17/sports/golf/a-post-masters-letdown-for-spieth.html",
+                "word_count": "160"
+            },
+            {
+                "_id": "552f368738f0d824112d67c4",
+                "abstract": "Five tons of dead fish are cleared from shores of Rio de Janeiro lagoon where 2016 Olympic rowing and canoeing events are scheduled to take place.",
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "REUTERS",
+                    "original": "By REUTERS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Olympics",
+                    "main": "Dead Fish Cleared From Rowing Site in Rio de Janeiro",
+                    "print_headline": "Dead Fish Removed"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Olympic Games (2016)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Canoes and Canoeing"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Rowing"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Fish and Other Marine Life"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "5",
+                        "value": "Olympic Games"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "glocations",
+                        "rank": "6",
+                        "value": "Rio de Janeiro (Brazil)"
+                    }
+                ],
+                "lead_paragraph": "Workers cleared another five tons of dead fish from the shores of a Rio de Janeiro lagoon where Olympic events are due to take place next year.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "14",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Workers cleared another five tons of dead fish from the shores of a Rio de Janeiro lagoon where Olympic events are due to take place next year.",
+                "source": "The New York Times",
+                "subsection_name": "Olympics",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/16/sports/olympics/dead-fish-cleared-from-rowing-site-in-rio-de-janeiro.html",
+                "word_count": "116"
+            },
+            {
+                "_id": "553081a638f0d847eef0f62e",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Tennis",
+                    "main": "Federer Falls at Monte Carlo",
+                    "print_headline": "Federer Falls at Monte Carlo"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Tennis"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Monte Carlo Open (Tennis)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "3",
+                        "value": "Federer, Roger"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Dimitrov, Grigor"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Wawrinka, Stan"
+                    }
+                ],
+                "lead_paragraph": "Roger Federer and Stan Wawrinka exited the Monte Carlo Masters in the third round.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "16",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Roger Federer and Stan Wawrinka exited the Monte Carlo Masters in the third round.",
+                "source": "The New York Times",
+                "subsection_name": "Tennis",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/17/sports/tennis/federer-falls-at-monte-carlo.html",
+                "word_count": "116"
+            },
+            {
+                "_id": "5530834c38f0d847eef0f632",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Horse Racing",
+                    "main": "Churchill Downs Bans Selfie Sticks",
+                    "print_headline": "Churchill Downs Bans Selfie Sticks"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Horse Racing"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Kentucky Derby"
+                    }
+                ],
+                "lead_paragraph": "Churchill Downs, which is set to host the 141st running of the Kentucky Derby on May 2, has banned the pole-like contraptions that allow people a longer reach to snap their self-portraits.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "16",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Churchill Downs, which is set to host the 141st running of the Kentucky Derby on May 2, has banned the pole-like contraptions that allow people a longer reach to snap their self-portraits.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/17/sports/churchill-downs-bans-selfie-sticks.html",
+                "word_count": "83"
+            },
+            {
+                "_id": "5530839238f0d847eef0f633",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Auto Racing",
+                    "main": "Penalty Against Richard Childress Racing for Tire Manipulation Is Upheld",
+                    "print_headline": "Penalty Upheld for Tire Manipulation"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Automobile Racing"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "2",
+                        "value": "Newman, Ryan"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "3",
+                        "value": "National Assn of Stock Car Auto Racing"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "4",
+                        "value": "Childress, Richard, Racing"
+                    }
+                ],
+                "lead_paragraph": "A Nascar appeals panel has upheld a penalty against Richard Childress Racing for intentionally manipulating the tires on a car driven by Ryan Newman.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "16",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "A Nascar appeals panel has upheld a penalty against Richard Childress Racing for intentionally manipulating the tires on a car driven by Ryan Newman.",
+                "source": "The New York Times",
+                "subsection_name": "Auto Racing",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/17/sports/autoracing/penalty-against-richard-childress-racing-for-tire-manipulation-is-upheld.html",
+                "word_count": "33"
+            },
+            {
+                "_id": "5530816838f0d847eef0f62c",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Swimming",
+                    "main": "In Return, Phelps First in Qualifying",
+                    "print_headline": "In Return, Phelps Wins 100 Butterfly"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Swimming"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Olympic Games"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "3",
+                        "value": "Phelps, Michael"
+                    }
+                ],
+                "lead_paragraph": "Michael Phelps won the 100-meter butterfly at his first meet in eight months, beginning his push to compete at a fifth Olympics next year.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "16",
+                "pub_date": "2015-04-17T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Michael Phelps won the 100-meter butterfly at his first meet in eight months, beginning his push to compete at a fifth Olympics next year.",
+                "source": "The New York Times",
+                "subsection_name": null,
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/17/sports/in-return-phelps-first-in-qualifying.html",
+                "word_count": "91"
+            },
+            {
+                "_id": "552f3a0638f0d824112d67cb",
+                "abstract": "Former Minnesota Vikings tight end Stu Voigt is under federal indictment for conspiracy and fraud in reported Ponzi scheme.",
+                "blog": [],
+                "byline": {
+                    "contributor": "",
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Pro Football",
+                    "main": "Former Viking Is Accused of Fraud",
+                    "print_headline": "Former Viking Indicted"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Football"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Ponzi and Pyramid Schemes"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "4",
+                        "value": "Frauds and Swindling"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "5",
+                        "value": "Minnesota Vikings"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "6",
+                        "value": "Voigt, Stu (1948- )"
+                    }
+                ],
+                "lead_paragraph": "The former Minnesota Vikings tight end Stu Voigt was charged in a federal indictment with conspiracy and fraud in a reported Ponzi scheme.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "14",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "The former Minnesota Vikings tight end Stu Voigt was charged in a federal indictment with conspiracy and fraud in a reported Ponzi scheme.",
+                "source": "The New York Times",
+                "subsection_name": "Pro Football",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/16/sports/football/former-viking-is-accused-of-fraud.html",
+                "word_count": "44"
+            },
+            {
+                "_id": "552f39a638f0d824112d67c9",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | Soccer",
+                    "main": "College Player Paces U.S. Victory Over Mexico",
+                    "print_headline": "College Player Paces U.S. Victory"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Soccer"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "2",
+                        "value": "United States Men's National Soccer Team"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "3",
+                        "value": "Agudelo, Juan"
+                    }
+                ],
+                "lead_paragraph": "The Stanford sophomore Jordan Morris scored early in the second half in his first start for the United States national team, which dispatched Mexico, 2-0, in an exhibition game.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "The Stanford sophomore Jordan Morris scored early in the second half in his first start for the United States national team, which dispatched Mexico, 2-0, in an exhibition game.",
+                "source": "The New York Times",
+                "subsection_name": "Soccer",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/16/sports/soccer/college-player-paces-us-victory-over-mexico.html",
+                "word_count": "44"
+            },
+            {
+                "_id": "552f380f38f0d824112d67c6",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "content_kicker": "Sports Briefing | College Football",
+                    "main": "Lord Nelson, a Rutgers Horse, Dies",
+                    "print_headline": "Changes in Concussion Settlement Plan"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "College Athletics"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Football (College)"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Horses"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "4",
+                        "value": "Rutgers, The State University of New Jersey"
+                    }
+                ],
+                "lead_paragraph": "Lord Nelson, the only horse to be penalized in a college football game, died.",
+                "multimedia": [],
+                "news_desk": "Sports",
+                "print_page": "",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Sports",
+                "snippet": "Lord Nelson, the only horse to be penalized in a college football game, died.",
+                "source": "The New York Times",
+                "subsection_name": "College Football",
+                "type_of_material": "Brief",
+                "web_url": "http://www.nytimes.com/2015/04/16/sports/ncaafootball/lord-nelson-a-rutgers-horse-dies.html",
+                "word_count": "63"
+            }
+        ],
+        "meta": {
+            "hits": 62,
+            "offset": 0,
+            "time": 313
+        }
+    },
+    "status": "OK"
+}
+Mathematics
+	{
+    "copyright": "Copyright (c) 2013 The New York Times Company.  All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "_id": "552eb56f38f0d824112d662f",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "original": "By ROBERT STRAUSS",
+                    "person": [
+                        {
+                            "firstname": "Robert",
+                            "lastname": "STRAUSS",
+                            "organization": "",
+                            "rank": 1,
+                            "role": "reported"
+                        }
+                    ]
+                },
+                "document_type": "article",
+                "headline": {
+                    "kicker": "Small Business",
+                    "main": "Performing Math and Mime, for Fun and Profit",
+                    "print_headline": "Putting on a Show, Mixing Mathematics and Mime, for Fun and Profit"
+                },
+                "keywords": [
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "1",
+                        "value": "Mathematics"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Small Business"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Mime"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "4",
+                        "value": "Chartier, Tanya (1971- )"
+                    },
+                    {
+                        "is_major": "Y",
+                        "name": "persons",
+                        "rank": "5",
+                        "value": "Chartier, Tim (1969- )"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "6",
+                        "value": "Theater"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "7",
+                        "value": "Science and Technology"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "organizations",
+                        "rank": "8",
+                        "value": "Davidson College"
+                    }
+                ],
+                "lead_paragraph": "A math professor and his wife, both trained by Marcel Marceau, stage mime skits to teach the principles, and joys, of math to students of all ages.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 400,
+                        "legacy": {
+                            "xlarge": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-articleLarge.jpg",
+                            "xlargeheight": "400",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/16/business/16sbiz-web1/16sbiz-web1-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "Business",
+                "print_page": "7",
+                "pub_date": "2015-04-16T00:00:00Z",
+                "section_name": "Business Day",
+                "snippet": "A math professor and his wife, both trained by Marcel Marceau, stage mime skits to teach the principles, and joys, of math to students of all ages.",
+                "source": "The New York Times",
+                "subsection_name": "Small Business",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/2015/04/16/business/smallbusiness/performing-math-and-mime-for-fun-and-profit.html",
+                "word_count": "1237"
+            },
+            {
+                "_id": "552fa44938f0d824112d690b",
+                "abstract": null,
+                "blog": [],
+                "byline": [],
+                "document_type": "article",
+                "headline": {
+                    "main": "Freeman Dyson: By the Book",
+                    "print_headline": "By the Book; Freeman Dyson"
+                },
+                "keywords": [
+                    {
+                        "is_major": "N",
+                        "name": "persons",
+                        "rank": "1",
+                        "value": "Dyson, Freeman J"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "2",
+                        "value": "Books and Literature"
+                    },
+                    {
+                        "is_major": "N",
+                        "name": "subject",
+                        "rank": "3",
+                        "value": "Writing and Writers"
+                    }
+                ],
+                "lead_paragraph": "The physicist, mathematician and author, most recently, of \u201cDreams of Earth and Sky\u201d says the best books he knows about mathematics and physics are nearly a hundred years old.",
+                "multimedia": [
+                    {
+                        "height": 126,
+                        "legacy": {
+                            "wide": "images/2015/04/19/books/review/19BTB/19-btb-thumbWide.jpg",
+                            "wideheight": "126",
+                            "widewidth": "190"
+                        },
+                        "subtype": "wide",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19BTB/19-btb-thumbWide.jpg",
+                        "width": 190
+                    },
+                    {
+                        "height": 710,
+                        "legacy": {
+                            "xlarge": "images/2015/04/19/books/review/19BTB/19-btb-articleLarge.jpg",
+                            "xlargeheight": "710",
+                            "xlargewidth": "600"
+                        },
+                        "subtype": "xlarge",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19BTB/19-btb-articleLarge.jpg",
+                        "width": 600
+                    },
+                    {
+                        "height": 75,
+                        "legacy": {
+                            "thumbnail": "images/2015/04/19/books/review/19BTB/19-btb-thumbStandard.jpg",
+                            "thumbnailheight": "75",
+                            "thumbnailwidth": "75"
+                        },
+                        "subtype": "thumbnail",
+                        "type": "image",
+                        "url": "images/2015/04/19/books/review/19BTB/19-btb-thumbStandard.jpg",
+                        "width": 75
+                    }
+                ],
+                "news_desk": "BookReview",
+                "print_page": "8",
+                "pub_date": "2015-04-19T00:00:00Z",
+                "section_name": "Books",
+                "snippet": "The physicist, mathematician and author, most recently, of \u201cDreams of Earth and Sky\u201d says the best books he knows about mathematics and physics are nearly a hundred years old.",
+                "source": "The New York Times",
+                "subsection_name": "Sunday Book Review",
+                "type_of_material": "Question",
+                "web_url": "http://www.nytimes.com/2015/04/19/books/review/19bkr-bythebook_dyson.t.html",
+                "word_count": "1180"
+            },
+            {
+                "_id": "552fcc3038f0d824112d69a1",
+                "abstract": null,
+                "blog": [],
+                "byline": {
+                    "organization": "THE ASSOCIATED PRESS",
+                    "original": "By THE ASSOCIATED PRESS",
+                    "person": []
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Don't Panic, College Seniors: Jobs for Grads Likely to Grow",
+                    "print_headline": "Don't Panic, College Seniors: Jobs for Grads Likely to Grow"
+                },
+                "keywords": [],
+                "lead_paragraph": "The consulting and accounting firm EY is aggressively recruiting on college campuses this spring. The company formerly known as Ernst &amp; Young plans to hire 9,000 graduates from U.S. universities this year, up from 7,500 in 2014. But recruiting isn't as easy as it used to be.",
+                "multimedia": [],
+                "news_desk": "None",
+                "print_page": null,
+                "pub_date": "2015-04-16T10:47:45Z",
+                "section_name": "U.S.",
+                "snippet": "The consulting and accounting firm EY is aggressively recruiting on college campuses this spring. The company formerly known as Ernst &amp; Young plans to hire 9,000 graduates from U.S. universities this year, up from 7,500 in 2014. But recruiting...",
+                "source": "AP",
+                "subsection_name": "Politics",
+                "type_of_material": "News",
+                "web_url": "http://www.nytimes.com/aponline/2015/04/16/us/politics/ap-us-economy-college-grads.html",
+                "word_count": "707"
+            }
+        ],
+        "meta": {
+            "hits": 3,
+            "offset": 0,
+            "time": 19
+        }
+    },
+    "status": "OK"
+}
